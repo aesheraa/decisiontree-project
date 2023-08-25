@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "decisiontree-project", "decisiontree-project\decisiontree-project.pyproj", "{7346E537-DCFF-4FD5-AA10-FABB1FF4A070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7346E537-DCFF-4FD5-AA10-FABB1FF4A070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7346E537-DCFF-4FD5-AA10-FABB1FF4A070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24AD6C8-5D37-4146-8224-C66DF7906595}
+	EndGlobalSection
+EndGlobal
